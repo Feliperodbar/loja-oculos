@@ -1,5 +1,5 @@
 
-import './estilos.css'
+import './estilosprod.css'
 export default function SecaoProdutos(){
     return(
         <section  id="produtos">
